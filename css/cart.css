@@ -72,3 +72,15 @@ body{
         padding-top: 15px;
     }
 }
+
+h4{
+    background-color: darkorange;
+}
+
+h5{
+    background-color: aqua;
+}
+
+h6{
+    background-color:rgb(223, 185, 205);
+}
